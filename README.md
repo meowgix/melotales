@@ -12,7 +12,7 @@
 
 ********************
 
-![meowgix-logo](/images/meowgix-logo.svg)
+![melotales-logo](/images/melotales.svg)
 
 ********************
 
