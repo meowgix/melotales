@@ -28,21 +28,20 @@ CODE TEXT GOES HERE
 
 ## ✏️ About
 
-This is a tool called [ToolName](https://toolwebsite) by [Author](https://authorpage).
+This is a game called [MeloTales](https://) by [meowgix](https://github.com/meowgix).
 
 ## 📥 Changelog
 
 > Version 0.0
 
 ```
-- [0000-00-00] Notes on update
+[2022-09-20]
+    + Make small changes to the README 
 ```
 
 ## 📌 To Do
 
-- [x] Task 1 
-- [ ] Task 2
-- [ ] Task 3
-- [ ] Task 4
+- [ ] Develop a general project plan 
+- [ ] Determine scope of the project
 
 
